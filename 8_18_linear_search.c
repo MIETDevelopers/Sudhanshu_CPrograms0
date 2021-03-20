@@ -1,5 +1,5 @@
 //Creation:21-03-21
-//Sushanshu Bhagat
+//Sudhanshu bhagat
 // A C Program to search an element in the array based on user choice.        
 #include <stdio.h>
 void main(){  //In this program we are not using 'return 0', So 'int main() -> void main()'.
