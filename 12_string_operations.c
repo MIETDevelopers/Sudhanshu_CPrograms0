@@ -16,3 +16,4 @@ void displayString(char str[])
 	//This will give output.
     printf("String Output: ");
     puts(str);
+    ^
